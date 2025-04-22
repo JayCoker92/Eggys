@@ -4,7 +4,8 @@ import { Link, NavLink, Outlet } from "react-router-dom";
 import SimilarProducts from "../components/SimilarProducts";
 import CartContext from "../context/CartContext";
 import UseTitle from "../Hooks/UseTitle";
-import helloIcon from "../assets/helloIcon.svg";
+import helloIcon from "../assets/HelloIcon.svg";
+
 import orderIcon from "../assets/OrdersIcon.svg";
 import inbox from "../assets/MailIcon.svg";
 import logOut from "../assets/LogOutIcon.png";
